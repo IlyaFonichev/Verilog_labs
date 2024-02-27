@@ -1,1 +1,1 @@
-# Verilog_labs
+# Laboratory works using Verilog/SystemVerilog
