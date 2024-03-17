@@ -16,4 +16,5 @@ always_comb begin
 		VAR : ALU_out = (INST.op_a * 13) - INST.op_b;
 	endcase
 end
+	
 endmodule 
